@@ -1,1 +1,0 @@
-# talking-static-page
